@@ -1,6 +1,6 @@
 # prueba-edwin-mejia
 Prueba de pasantia
-## Documentacion del backend
+<div style="border-bottom: 2px solid red;">## Documentacion del backend</div>
 -python --version
 -npm --version
 ## para generar un entorno virtual de desarrollo en con python
@@ -30,7 +30,7 @@ Prueba de pasantia
 -pip install coreapi
 
 
-## Documentacion del frontend
+<div style="border-bottom: 2px solid red;">## Documentacion del frontend</div>
 ## Se creo la aplicacion con vite
 -pip install coreapi
 ## Se eligio React como framework y JavaScript como lengaje
