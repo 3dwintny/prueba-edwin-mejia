@@ -1,16 +1,16 @@
 # prueba-edwin-mejia
 Prueba de pasantia
-## Documentacion del backend
+## DOCUMENTACION PARA EL BACKEND
 -python --version
 -npm --version
-para generar un entorno virtual de desarrollo en con python
+## para generar un entorno virtual de desarrollo en con python
 -python -m venv venv 
-Estando dentro del entorno virtual 
-Para instalar django en el entorno virtual
+##Estando dentro del entorno virtual 
+##Para instalar django en el entorno virtual
 -pip install django
-Para crear un un proyecto de django
+## Para crear un un proyecto de django
 -django-admin startproject backend_empleado .
-Crar la aplicacion de empleados en el backend
+## Crar la aplicacion de empleados en el backend
 -python manage.py startapp empleados
 ## Creamos la migracion de las tablas
 -python manage.py migrate
@@ -31,7 +31,7 @@ Crar la aplicacion de empleados en el backend
 
 
 
-## Documentacion del frontend
+## DOCUMENTACION PARA EL FRONTEND
 ## Se creo la aplicacion con vite
 -pip install coreapi
 ## Se eligio React como framework y JavaScript como lengaje
